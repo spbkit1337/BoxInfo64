@@ -1,0 +1,64 @@
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe.config
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.dll
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.xml
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form1.resources
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Properties.Resources.resources
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CopyComplete
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\BoxInfo64\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form2.resources
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe.config
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.dll
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.xml
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form1.resources
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form2.resources
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Properties.Resources.resources
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CopyComplete
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe.config
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.dll
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.xml
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form1.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form2.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Properties.Resources.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CopyComplete
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\Мои программы\BoxInfoBeta (3)\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe.config
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.pdb
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.dll
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.xml
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form1.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Form2.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.Properties.Resources.resources
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.CopyComplete
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.exe
+C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.pdb

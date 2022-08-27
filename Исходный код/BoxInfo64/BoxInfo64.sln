@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxInfo64", "BoxInfo64\BoxInfo64.csproj", "{8B2A27B9-F8DF-4789-AD7B-DCCD95A6AAEC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BoxInfo64 setup", "BoxInfo64 setup\BoxInfo64 setup\BoxInfo64 setup.vdproj", "{C5134B02-E309-4DA9-A4CF-49888B6A48D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2A27B9-F8DF-4789-AD7B-DCCD95A6AAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2A27B9-F8DF-4789-AD7B-DCCD95A6AAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2A27B9-F8DF-4789-AD7B-DCCD95A6AAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2A27B9-F8DF-4789-AD7B-DCCD95A6AAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5134B02-E309-4DA9-A4CF-49888B6A48D4}.Debug|Any CPU.ActiveCfg = Debug
+		{C5134B02-E309-4DA9-A4CF-49888B6A48D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A452A3-4742-41D0-A9DE-F663E54DB81B}
+	EndGlobalSection
+EndGlobal
