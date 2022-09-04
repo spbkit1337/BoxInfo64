@@ -21,5 +21,10 @@ namespace BoxInfo64
         {
             System.Diagnostics.Process.Start("https://github.com/spbkit1337");
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
