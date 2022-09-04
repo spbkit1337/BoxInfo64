@@ -1,8 +1,8 @@
 # BoxInfo64
 Мониторинг железа ПК
 
+![icon git](https://user-images.githubusercontent.com/51737588/188302044-8b8f7e96-736c-46e4-b642-3f072d250088.png)
 
-![box info github](https://user-images.githubusercontent.com/51737588/188302006-356ec26a-52c5-4774-a5df-5460a4292d79.png)
 
 <b>Написана на языке C#</b>
 
