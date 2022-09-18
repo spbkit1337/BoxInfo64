@@ -40,9 +40,8 @@
 
 Скриншот🤠
 
-![screen1](https://user-images.githubusercontent.com/51737588/190920701-1e04f4fb-3425-4f61-9d8a-7a41eddb3e40.jpg)
-
-![screen2](https://user-images.githubusercontent.com/51737588/190920702-da19d4f9-e2da-4e12-a737-efb0d990044e.jpg)
+![скр 1](https://user-images.githubusercontent.com/51737588/190920837-bcd31298-a21f-436c-9f8a-2e57990630b1.jpg)
+![скр 2](https://user-images.githubusercontent.com/51737588/190920840-87dd4135-3474-4467-a71f-125dee30fdaf.jpg)
 
 Полезные ссылки🔗:
 
