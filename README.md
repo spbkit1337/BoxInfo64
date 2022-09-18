@@ -3,6 +3,8 @@
 
 ![BoxInfo64 git](https://user-images.githubusercontent.com/51737588/190920509-8ca3453a-bd55-4a38-bc57-01f12924fcc8.png)
 
+https://img.shields.io/badge/%D0%9E%D0%A1%3A-Windows%207--10-blue
+
 <b>Написана на языке C#</b>
 
 Программа BoxInfo64 предназначена для просмотра комплектующих в ПК. 
