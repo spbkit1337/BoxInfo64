@@ -40,7 +40,9 @@
 
 Скриншот🤠
 
-![Безымянный](https://user-images.githubusercontent.com/51737588/187036756-d8f51244-2ef8-46ef-91ba-6f8c7a8a0996.jpg)
+![screen1](https://user-images.githubusercontent.com/51737588/190920701-1e04f4fb-3425-4f61-9d8a-7a41eddb3e40.jpg)
+
+![screen2](https://user-images.githubusercontent.com/51737588/190920702-da19d4f9-e2da-4e12-a737-efb0d990044e.jpg)
 
 Полезные ссылки🔗:
 
@@ -49,3 +51,4 @@
 3) https://cpab.ru/v-chem-raznica-mezhdu-net-framework-i-net-core-cloudsavvy-it/ (В чем разница между .NET Framework и .NET Core )
 4) https://www.youtube.com/watch?v=w5og9lCaqE8 (Что такое .Net Core и .Net Standard)
 5) https://performancepsu.com/open-hardware-monitor-source-code-dll-with-c/ (статья на англ. о том как юзать библеотеку OpenHardware)
+6) https://gist.github.com/grandsilence/cd7ce9d8bf87a5414b685e3e32542dd3 (удобная библеотека для получения инфы о мониторе)
