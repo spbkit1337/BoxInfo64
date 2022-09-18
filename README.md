@@ -1,7 +1,8 @@
 # BoxInfo64
 Мониторинг железа ПК
 <p align = "center">
-  <img src = "![BoxInfo64 git](https://user-images.githubusercontent.com/51737588/190921605-08df7280-8c93-496a-a707-6572a3f6dbdf.png)">
+  <img src = "![BoxInfo64 git](https://user-images.githubusercontent.com/51737588/190921623-f59d4ac9-ca5b-4c33-a870-9e32650be7b6.png)
+">
 </p>
 
 <p align = "center">
