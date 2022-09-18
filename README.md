@@ -1,9 +1,14 @@
 # BoxInfo64
 Мониторинг железа ПК
+<p align = "center">
+  <img src = "![BoxInfo64 git](https://user-images.githubusercontent.com/51737588/190920509-8ca3453a-bd55-4a38-bc57-01f12924fcc8.png)">
+</p>
 
-![BoxInfo64 git](https://user-images.githubusercontent.com/51737588/190920509-8ca3453a-bd55-4a38-bc57-01f12924fcc8.png)
+<p align = "center">
+<img src = "https://img.shields.io/badge/%D0%9E%D0%A1%3A-Windows%207--10-blue">
+</p>
 
-https://img.shields.io/badge/%D0%9E%D0%A1%3A-Windows%207--10-blue
+
 
 <b>Написана на языке C#</b>
 
