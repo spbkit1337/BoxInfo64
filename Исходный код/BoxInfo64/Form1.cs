@@ -24,8 +24,12 @@ using OpenHardwareMonitor.Hardware;
 using OpenHardwareMonitor.Collections;
 
 using ConsoleApp1; //имя библеотеки чтобы посмотреть ее код зайди в файл Monitorinfo.cs
+using System.Security.Policy;
 
 //вот ссылка на эту библеотеку https://gist.github.com/grandsilence/cd7ce9d8bf87a5414b685e3e32542dd3
+
+
+
 
 namespace BoxInfo64
 {
@@ -38,8 +42,7 @@ namespace BoxInfo64
             timer1.Interval = 1000; //тут создаю интервал в секундах для того чтобы обновлялся label с надпесью "свободная память"     1 секунда!!!!
             timer1.Start(); //включаю таймер при загрузки формы то есть программы
 
-            timer2.Interval = 10000; //тут создаю интервал в секундах для того чтобы обновлялся label с надпесью "ip adress (внешний)"     10 секунд!!!!
-            timer2.Start(); //включаю таймер при загрузки формы то есть программы
+
 
             timer3.Interval = 1000; //я создал timer3  чтобы каждую 1 сек обновлялся label с температурой
             timer3.Start(); //включаю таймер при загрузки формы то есть программы
@@ -111,8 +114,7 @@ namespace BoxInfo64
             label21.Text = ""; //модель монитора
             label48.Text = ""; //разрешение монитора
             label18.Text = ""; //модель материнки
-            label35.Text = "плиз вэйт :)"; // локальный айпи
-            label37.Text = "плиз вэйт :)"; // внешний айпи
+
 
 
 
@@ -202,18 +204,19 @@ namespace BoxInfo64
 
 
 
+            //Тут код материнки первый вариант работает почему то не всегда
+            //Материнка
+            //foreach (var mo in new ManagementObjectSearcher("root\\cimv2", "select * from Win32_BaseBoard").Get())
+            //{
+            //    label18.Text = (string)mo["manufacturer"] + (string)mo["product"];
+            //}
+
+            
+            //Тут я юзаю отдельную библеотеку https://drive.google.com/drive/folders/1--GMIwuge6KdexB5CxqJG6LNSibgBjGL
+            //это код тоже выводит материнку при этом работает всегда 
 
             //Материнка
-            foreach (var mo in new ManagementObjectSearcher("root\\cimv2", "select * from Win32_BaseBoard").Get())
-            {
-                label18.Text = $"{(string)mo["manufacturer"]} {(string)mo["product"]}";
-
-
-
-            }
-
-
-
+            label18.Text = HardwareInfo.GetBoardMaker() + " " + HardwareInfo.GetBoardProductId();
 
 
 
@@ -247,36 +250,6 @@ namespace BoxInfo64
 
                 }          
         }
-
-        //айпи
-        private void timer2_Tick(object sender, EventArgs e)
-        {
-
-                //Обрати внимания что этот код находится в timer 2 чтобы  айпи адресс обновлялся каждые 10 сек проста для удобства
-
-                //также нужно сказать что без using System.Net; работать не будет
-
-                //Здесь я получаю локальный айпи адрес машины.
-
-                string hostName = Dns.GetHostName(); // Retrive the Name of HOST
-
-                // Get the IP
-                string myIP = Dns.GetHostByName(hostName).AddressList[0].ToString();
-
-                //Здесь я получаю локальный айпи адрес машины.
-                label35.Text = myIP;
-
-
-
-                //тут внешний который видят сайты которые я посещаю.Тут идет обращение к сайту icanhazip  с которого берется мой айпи
-                string externalIpString = new WebClient().DownloadString("http://icanhazip.com").Replace("\\r\\n", "").Replace("\\n", "").Trim();
-                var externalIp = IPAddress.Parse(externalIpString);
-
-                label37.Text = externalIp.ToString();
-
-        }
-
-
 
 
 

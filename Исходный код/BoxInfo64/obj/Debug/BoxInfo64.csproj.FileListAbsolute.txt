@@ -65,7 +65,6 @@ C:\Users\Denis\Desktop\Мои программы\BoxInfo64\BoxInfo64\obj\Debug\B
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe.config
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.exe
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\BoxInfo64.pdb
-C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\OpenHardwareMonitorLib.dll
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.dll
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\bin\Debug\System.CodeDom.xml
 C:\Users\Denis\Desktop\Мои программы c#\BoxInfo64\BoxInfo64\obj\Debug\BoxInfo64.csproj.AssemblyReference.cache

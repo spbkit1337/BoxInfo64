@@ -39,6 +39,10 @@
     <ApplicationIcon>boxinfo_result.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HardwareInfo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\HardwareInfo.dll</HintPath>
+    </Reference>
     <Reference Include="OpenHardwareMonitorLib">
       <HintPath>G:\Download\OpenHardwareMonitor\OpenHardwareMonitorLib.dll</HintPath>
     </Reference>
