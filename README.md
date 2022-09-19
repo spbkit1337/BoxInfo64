@@ -47,8 +47,8 @@
 
 Скриншот🤠
 
-![скр 1](https://user-images.githubusercontent.com/51737588/190920837-bcd31298-a21f-436c-9f8a-2e57990630b1.jpg)
-![скр 2](https://user-images.githubusercontent.com/51737588/190920840-87dd4135-3474-4467-a71f-125dee30fdaf.jpg)
+![1](https://user-images.githubusercontent.com/51737588/191033676-2a20785e-36ae-4284-86f1-e80608e7fe9f.jpg)
+![2](https://user-images.githubusercontent.com/51737588/191033680-d16d4e56-389b-40e8-bf31-40b5464e8bbb.jpg)
 
 Полезные ссылки🔗:
 
