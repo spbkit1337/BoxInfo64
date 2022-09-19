@@ -58,3 +58,4 @@
 4) https://www.youtube.com/watch?v=w5og9lCaqE8 (Что такое .Net Core и .Net Standard)
 5) https://performancepsu.com/open-hardware-monitor-source-code-dll-with-c/ (статья на англ. о том как юзать библеотеку OpenHardware)
 6) https://gist.github.com/grandsilence/cd7ce9d8bf87a5414b685e3e32542dd3 (удобная библеотека для получения инфы о мониторе)
+7) https://www.youtube.com/watch?v=_tfDHzQ_7_U и  https://drive.google.com/drive/folders/1--GMIwuge6KdexB5CxqJG6LNSibgBjGL (тоже неплохая библеотека для получения ины о железе)
