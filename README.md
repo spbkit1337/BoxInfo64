@@ -59,3 +59,13 @@
 5) https://performancepsu.com/open-hardware-monitor-source-code-dll-with-c/ (статья на англ. о том как юзать библеотеку OpenHardware)
 6) https://gist.github.com/grandsilence/cd7ce9d8bf87a5414b685e3e32542dd3 (удобная библеотека для получения инфы о мониторе)
 7) https://www.youtube.com/watch?v=_tfDHzQ_7_U и  https://drive.google.com/drive/folders/1--GMIwuge6KdexB5CxqJG6LNSibgBjGL (тоже неплохая библеотека для получения ины о железе)
+
+на всякий пожарный оставлю здесь ссылки на неплохие статьи по WMI
+
+- Получение температуры процессора https://ourcodeworld.com/articles/read/335/how-to-retrieve-the-cpu-s-temperature-with-c-in-winforms
+
+- Обьемный массив информации о оборудавнии (принтеры , ОС , жесткие диски крч много всего) https://ourcodeworld.com/articles/read/294/how-to-retrieve-basic-and-advanced-hardware-and-software-information-gpu-hard-drive-processor-os-printers-in-winforms-with-c-sharp
+
+- Как получить объем оперативной памяти https://ourcodeworld.com/articles/read/879/how-to-retrieve-the-ram-amount-available-on-the-system-in-winforms-with-c-sharp
+
+- Как получить информацию о материнской плате https://ourcodeworld.com/articles/read/314/how-to-retrieve-the-motherboard-information-with-c-sharp-in-winforms
