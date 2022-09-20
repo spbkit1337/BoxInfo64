@@ -60,7 +60,7 @@
 6) https://gist.github.com/grandsilence/cd7ce9d8bf87a5414b685e3e32542dd3 (удобная библеотека для получения инфы о мониторе)
 7) https://www.youtube.com/watch?v=_tfDHzQ_7_U и  https://drive.google.com/drive/folders/1--GMIwuge6KdexB5CxqJG6LNSibgBjGL (тоже неплохая библеотека для получения ины о железе)
 
-на всякий пожарный оставлю здесь ссылки на неплохие статьи по WMI
+<b>На всякий пожарный оставлю здесь ссылки на неплохие статьи по WMI</b>
 
 - Получение температуры процессора https://ourcodeworld.com/articles/read/335/how-to-retrieve-the-cpu-s-temperature-with-c-in-winforms
 
